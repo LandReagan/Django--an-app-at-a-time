@@ -31,7 +31,7 @@ Comment l’utiliser ?
 
 Téléchargez et décompressez le projet, puis lancez :
 
-    python ./manage.py runservers
+    python ./manage.py runserver
 
 Vous pouvez ignorer le warning sur les migrations.
 
